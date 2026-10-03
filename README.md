@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of litalino/flarum-title-content-length.** Not for installation: use [Packagist](https://packagist.org/packages/litalino/flarum-title-content-length) or the [upstream repository](https://github.com/Litalino/flarum-title-content-length).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/litalino-flarum-title-content-length/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/litalino-flarum-title-content-length/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-12-02 | `^1.2` | [Browse](https://github.com/flarchive/litalino-flarum-title-content-length/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/litalino-flarum-title-content-length.json](https://github.com/flarchive/archive-index/blob/main/packages/litalino-flarum-title-content-length.json)
 
